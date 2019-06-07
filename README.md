@@ -7,6 +7,4 @@ Tensorflow를 통한 ML_data분류, 인공신경망, CNN 등 인공지능이라�
 
 written by PowerSH.
 <br>
-추가해야할 사항들
-* 캡쳐 이미지 1장 이상
-* PDF로 저장
+![AI_Capture](https://user-images.githubusercontent.com/39876295/59106866-5f520a80-8972-11e9-89db-27ff6dda29ff.JPG)
